@@ -4,7 +4,7 @@
 #include <math.h>
 #include "discr.h"
 
-int val;
+
 
 int qvadr(float a, float b, float c, float* x1, float* x2, int* flag) {
   float d;
