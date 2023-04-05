@@ -5,5 +5,5 @@
 int main()
 {
     printf("Hello World!\n");
-    return MYFUNC(2);
+    return myfunc(2);
 }
